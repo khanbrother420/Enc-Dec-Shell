@@ -54,8 +54,8 @@ logo=f'''
 {yellow}  |  __'.     |  __  |     / ___ \     | |\ \| |   
 {yellow} _| |  \ \_  _| |  | |_  _/ /   \ \_  _| |_\   |_  
 {purple}|____||____||____||____||____| |____||_____|\____| 
-{green}                                 [It's Not Just a Name]
-{green}                                     [It’s a Brand] 
+{green}                             [It's Not Just a Name]
+{green}                                 [It’s a Brand] 
 '''
 
 # Normal slowly printer
